@@ -1,0 +1,22 @@
+{
+  "name": "qualia",
+  "main": "qualia.js",
+  "homepage": "https://github.com/davemackintosh/melodist",
+  "authors": [
+    "davemackintosh <me@davemackintosh.co.uk>"
+  ],
+  "description": "Fast WebComponents",
+  "keywords": [
+    "webcomponents",
+    "virtual-dom"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
