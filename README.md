@@ -18,6 +18,8 @@ I welcome and appreciate any PRs ❤
 
 It's built on [t7](https://github.com/trueadm/t7) & [virtual dom](https://github.com/Matt-Esch/virtual-dom)
 
+It contains an evil `eval`, if anyone knows a way to do what it does without an eval then you'll be my favourite.
+
 *Example:*
 
 ```html
