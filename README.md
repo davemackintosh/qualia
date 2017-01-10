@@ -8,9 +8,11 @@ This is just me experimenting with and learning virtual dom, it's used in anothe
 
 It converts your `<template>` into an ES6 template literal so you can use vanilla expressions in your template, it then renders the component as a virtual dom component for performance.
 
-It also watches the `props` attribute and renders the necessary patches automatically.  
+It 
 
-It also supports automatic `props` updates via it's attributes.
+* watches the `props` attribute and renders the necessary patches automatically.  
+* automatic `props` updates via it's attributes.
+* event handlers via React-esque on{event} attributes
 
 It targets Chrome only at the moment (for an Electron app)
 
