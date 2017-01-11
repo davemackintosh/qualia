@@ -1,0 +1,6 @@
+[submodule "vendor/virtual-dom"]
+	path = vendor/virtual-dom
+	url = https://github.com/Matt-Esch/virtual-dom.git
+[submodule "vendor/t7"]
+	path = vendor/t7
+	url = git@github.com:davemackintosh/t7.git
